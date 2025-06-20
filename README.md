@@ -5,6 +5,15 @@ This assignment focuses on building a responsive React application using JSX and
 
 ## Assignment Overview
 
+##npm start to run the project in development mode 
+
+```
+npm start 
+
+```
+
+
+
 You will:
 1. Set up a React project with Vite and Tailwind CSS
 2. Create reusable UI components
